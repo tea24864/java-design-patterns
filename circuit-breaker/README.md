@@ -315,7 +315,7 @@ Use the Circuit Breaker pattern when
 
 ## Real world examples
 
-* [Spring Circuit Breaker module](https://spring.io/guides/gs/circuit-breaker)
+* [Spring Cloud Circuit Breaker Guide](https://spring.io/guides/gs/cloud-circuit-breaker)
 * [Netflix Hystrix API](https://github.com/Netflix/Hystrix)
 
 ## Credits
